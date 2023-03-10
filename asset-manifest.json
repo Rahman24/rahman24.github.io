@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c6f10c2.css",
-    "main.js": "/static/js/main.4ecf7374.js",
+    "main.css": "/static/css/main.fb61e483.css",
+    "main.js": "/static/js/main.710154f2.js",
     "static/js/787.34fbeff4.chunk.js": "/static/js/787.34fbeff4.chunk.js",
     "static/media/Lora-Italic-VariableFont_wght.ttf": "/static/media/Lora-Italic-VariableFont_wght.e57ca7e1d79b1440d81c.ttf",
     "static/media/gw.webp": "/static/media/gw.2c4d2fe0258880f948fa.webp",
@@ -13,10 +13,10 @@
     "static/media/footer.webp": "/static/media/footer.0b779977f69df7a35094.webp",
     "static/media/fp.webp": "/static/media/fp.a15241e7514cb456bea2.webp",
     "static/media/hsc.webp": "/static/media/hsc.c759d33b980ab63c5c7c.webp",
+    "static/media/kanban.webp": "/static/media/kanban.d69ab798c99cb3b13f37.webp",
     "static/media/inv.webp": "/static/media/inv.5f537d10f4f01c698591.webp",
     "static/media/sslc.webp": "/static/media/sslc.f91b4fdb078778102c50.webp",
     "static/media/c.webp": "/static/media/c.712b92373dd2a520281e.webp",
-    "static/media/th.webp": "/static/media/th.efc31e3ef8d5f1846edb.webp",
     "static/media/cse.webp": "/static/media/cse.1798650cd0f5c21e8ae6.webp",
     "static/media/react.webp": "/static/media/react.9321e4ea578153ca992f.webp",
     "static/media/cpp.webp": "/static/media/cpp.b594fcb92f2e90443ec2.webp",
@@ -31,7 +31,6 @@
     "static/media/htmlcss.webp": "/static/media/htmlcss.b78ca8ba326c6449ec7e.webp",
     "static/media/flask.webp": "/static/media/flask.1bdba96807e6429a7d50.webp",
     "static/media/js.webp": "/static/media/js.cb1e8c3c4d2efce109c1.webp",
-    "static/media/rm8.webp": "/static/media/rm8.da0b815a0bee340a6e13.webp",
     "static/media/count.webp": "/static/media/count.0d412fd4aed9c1673a0f.webp",
     "static/media/firebase.webp": "/static/media/firebase.7c0a921fd4efc7dff287.webp",
     "static/media/bootstrap.webp": "/static/media/bootstrap.3a6944ff7b010c0ebe94.webp",
@@ -43,12 +42,12 @@
     "static/media/jinja.webp": "/static/media/jinja.132207e89f649aa86341.webp",
     "static/media/django.webp": "/static/media/django.c1c15e5519bfe6007756.webp",
     "index.html": "/index.html",
-    "main.2c6f10c2.css.map": "/static/css/main.2c6f10c2.css.map",
-    "main.4ecf7374.js.map": "/static/js/main.4ecf7374.js.map",
+    "main.fb61e483.css.map": "/static/css/main.fb61e483.css.map",
+    "main.710154f2.js.map": "/static/js/main.710154f2.js.map",
     "787.34fbeff4.chunk.js.map": "/static/js/787.34fbeff4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c6f10c2.css",
-    "static/js/main.4ecf7374.js"
+    "static/css/main.fb61e483.css",
+    "static/js/main.710154f2.js"
   ]
 }
